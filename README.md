@@ -1,4 +1,4 @@
-# Machine-Learning-Methods-for-Radiation-Belts-Profile-Predictions
+# Machine-Learning-Methods-in-Space-Applications
 
 Machine-Learning-Methods-for-Radiation-Belts-Profile-Predictions
 
